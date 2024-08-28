@@ -1,7 +1,7 @@
 # users-api
 REST API Practice Project
 
-Complete API with database connectivity with Database implemented using Express, MongoDB and Node JS.
+Complete API with database connectivity with Database implemented using Express, EJS, MongoDB and Node JS.
 
 # ROUTES
 
